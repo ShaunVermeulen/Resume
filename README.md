@@ -1,5 +1,7 @@
 # Shaun Vermeulen (u16078625)
 
+![ProfilePicture](images/Profile.png) 
+
 # About
 
 I am currently studying BSc Computer Science at the University of Pretoria. I love programming and I am dedicated to do my work. I have great time management skills and I am determined to finish my projects well before the deadline. I work well with others as I am currently involved in a few group projects.
